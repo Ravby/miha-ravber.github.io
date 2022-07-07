@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Miha Ravber"
+title                    : "Miha Ravber"
 title_separator          : "-"
-name                     : &name "Miha Ravber"
+name                     : &name "Dr. Miha Ravber"
 description              : &description "personal description"
 url                      : https://ravby.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Dr. Miha Ravber"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Teaching assistant at Faculty of Electrical Engineering and Computer Science at University of Maribor"
+  location         : "Maribor, Slovenia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=E2mDZN0AAAAJ"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Miha-Ravber"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Ravby"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/miharavber/"
   orcid            : "https://orcid.org/0000-0003-4908-4631"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
