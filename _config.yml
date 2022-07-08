@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Dr. Miha Ravber"
   avatar           : "profile.png"
-  bio              : "Teaching assistant at <a style='color: black;' href='https://feri.um.si/en/'>Faculty of Electrical Engineering and Computer Science</a> at <a style='color: black;' href='https://www.um.si/en/home-page/'>University of Maribor</a>"
+  bio              : "Teaching assistant at <a style='color: #4693aa;' href='https://feri.um.si/en/'>Faculty of Electrical Engineering and Computer Science</a> at <a style='color: #4693aa;' href='https://www.um.si/en/home-page/'>University of Maribor</a>"
   location         : "Maribor, Slovenia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
