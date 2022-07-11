@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, University of Maribor, 2018
+* M.S. in Computer Science and Information Technologies, University of Maribor, 2015
+* B.S. in Computer Science and Information Technologies, University of Maribor, 2012
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2018 - present: Teaching Assistant
+  * University of Maribor, Faculty of Electrical Engineering and Computer Science
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* October 2015 - October 2018: Junior Researcher
+  * University of Maribor, Faculty of Electrical Engineering and Computer Science
+
+* September 2014 - August 2015: Software Developer
+  * Agito d.o.o.
+
+* January 2012 - September 2012: Software Developer
+  * Poligram d.o.o.
+
+* June 2011 - July 2011: Technician
+  * LANCom d.o.o.
 
 Publications
 ======
@@ -42,18 +39,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Reviewer for Journals
+====== 
+* Applied Soft Computing
+* Information Sciences, 
+* Expert Systems with Applications
+* Swarm and Evolutionary Computation
+* Sensors
+* Mathematics
+* Entropy
+* Sustainability
+* Symmetry
+* Natural Computing
